@@ -1,0 +1,32 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+.envrc
+venv
+ENV
+env.bak
+venv.bak
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ipch
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore PyCharm settings
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ipch
